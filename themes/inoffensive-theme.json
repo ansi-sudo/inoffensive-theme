@@ -1,11 +1,11 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Inoffensive Theme",
   "author": "Tom Kliner",
   "themes": [
     {
-      "appearance": "dark",
       "name": "Inoffensive Dark",
+      "appearance": "dark",
       "style": {
         "accents": [
           "#0576ffff",
@@ -44,12 +44,12 @@
         "editor.highlighted_line.background": "#656c7633",
         "editor.invisible": "#656c76ff",
         "editor.line_number": "#9198a1ff",
-        "editor.subheader.background": "#262c36ff",
+        "editor.subheader.background": "#31333AFF",
         "editor.wrap_guide": "#3d444db3",
         "element.active": "#656c7633",
         "element.background": "#656c7633",
         "element.disabled": "#303136ff",
-        "element.hover": "#656c7633",
+        "element.hover": "#363840FF",
         "element.selected": "#656c7633",
         "elevated_surface.background": "#303136ff",
         "error": "#f88070ff",
@@ -423,8 +423,21 @@
             "font_style": null,
             "font_weight": null
           }
-        }
+        },
+        "panel.overlay_background": "#151b23ff",
+        "panel.overlay_hover": "#303136ff",
+        "minimap.thumb.background": "#656c764d",
+        "minimap.thumb.hover_background": "#656c7666",
+        "minimap.thumb.border": "#00000000",
+        "version_control.added": "#57ab5aff",
+        "version_control.deleted": "#e5534bff",
+        "version_control.modified": "#59a4f9ff",
+        "version_control.renamed": "#57ab5aff",
+        "version_control.conflict": "#cc6b2cff",
+        "version_control.ignored": "#656c76ff"
       }
     }
-  ]
+  ],
+  "isUserGenerated": true,
+  "description": "An inoffensive theme for Zed"
 }
