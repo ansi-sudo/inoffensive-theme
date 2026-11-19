@@ -1,0 +1,7 @@
+id = "inoffensive-theme"
+name = "Inoffensive Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["Tom Kliner"]
+description = "An inoffensive theme for Zed"
+repository = "https://github.com/ansi-sudo/inoffensive-theme"
