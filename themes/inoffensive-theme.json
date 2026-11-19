@@ -144,7 +144,7 @@
         "unreachable.background": "#2a313cff",
         "unreachable.border": "#656c761a",
         "vim.mode.text": "#303136ff",
-        "vim.normal.background": "#ffffff44",
+        "vim.normal.background": "#3B3D43ff",
         "vim.helix_normal.background": "#656c76ff",
         "vim.visual.background": "#316dcaff",
         "vim.helix_select.background": "#316dcaff",
